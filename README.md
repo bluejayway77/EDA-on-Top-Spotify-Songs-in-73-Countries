@@ -18,4 +18,8 @@ A dashboard in Tableau Public is also being provided to get insights easily. Lin
 
 ## Disclaimer
 
-Unfortunately, GithHub does not display dynamic charts made with plotly, hence, two notebooks are part of the Notebooks folder. You can check the static one to get quick information, but for deeper exploration, you can copy the url from the dynamic one and run it here: https://nbviewer.org/
+Unfortunately, GithHub does not display dynamic charts made with plotly, hence, two notebooks are part of the Notebooks folder. You can check the static one to get quick information, but for deeper exploration, you can download the dynamic notebook which is in rar extension.
+
+## Data source
+
+https://www.kaggle.com/datasets/asaniczka/top-spotify-songs-in-73-countries-daily-updated
